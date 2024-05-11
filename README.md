@@ -1,2 +1,6 @@
 # Kalite_Denetimi_Quality_Control
- 
+ Minitab programı kullanılarak balık kılçığı (Neden-Sonuç) diyagramı, histogram grafiği, C kontrol kart incelemesi, süreç yeterlilik analizi yapılmıştır. 
+Süreç yeterliliğinde, senaryoya uygun şekilde beyin fırtınası yapılarak balık kılçığı diyagramı oluşturulmuş, hataların nedeni tespit edilmiştir. Daha sonra pareto grafiği ile hataların %80'lik kısmının hangi nedenlerden kaynaklandığı bulunmuştur. Sürece uygun olan kart C kontrol kartı olduğundan, bu kart kullanılarak süreci kontrol dışına çıkaran durumlar tespit edilip çıkarılarak, süreci kontrol  işlemi tekrar edilmiştir. Süreci kontrol altına alma işlemi üzerinde çalışılmıştır.
+
+ The fishbone (cause-effect) diagram, histogram, C control chart analysis, and process capability analysis were conducted using Minitab software.
+For process capability analysis, a fishbone diagram was created through brainstorming sessions according to the scenario, and the causes of errors were identified. Subsequently, a Pareto chart was used to determine which reasons accounted for 80% of the errors. Since the C control chart was suitable for the process, situations that led the process out of control were identified and removed using this chart, and the process control was re-implemented. Efforts were made to bring the process under control.
